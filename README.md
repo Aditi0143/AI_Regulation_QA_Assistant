@@ -88,7 +88,7 @@ python app.py
 </ol>
 
 <h2>📸 Demo Screenshot</h2>
-<p><em>Add your screenshot here by uploading to the repo and linking below:</em></p>
+
 <pre>
 <img src="https://github.com/Aditi0143/AI_Regulation_QA_Assistant/blob/main/output/sampleoutput.png" alt="App Screenshot" width="700">
 </pre>
