@@ -1,0 +1,21 @@
+=== EU AI Act (2023) ===
+The EU AI Act introduces a risk-based approach to regulating artificial intelligence. AI systems are categorized as unacceptable risk, high risk, limited risk, and minimal risk. High-risk systems must comply with strict requirements on data quality, transparency, human oversight, and robustness. Prohibited practices include social scoring, real-time biometric surveillance in public spaces, and subliminal manipulation. Violations can result in fines of up to 6% of global annual turnover.
+
+=== NIST AI Risk Management Framework (2023) ===
+The U.S. National Institute of Standards and Technology (NIST) AI RMF provides a voluntary framework to promote trustworthy AI. It outlines four core functions: Map, Measure, Manage, and Govern. Key principles include privacy, fairness, transparency, accountability, and resilience. The framework encourages risk-based governance and ongoing monitoring throughout the AI lifecycle.
+
+=== OECD AI Principles (2019) ===
+The OECD’s AI Principles promote the responsible development of AI. The five key values are: inclusive growth, human-centered values, transparency and explainability, robustness and safety, and accountability. It also calls on governments to invest in R&D and ensure international cooperation on AI policy.
+
+=== India Digital Personal Data Protection (DPDP) Act (2023) ===
+India’s DPDP Act regulates how organizations process personal data. It mandates consent-based data usage, user rights (like access, correction, and erasure), and transparency. The act introduces the concept of “data fiduciaries” and “data principals” and imposes significant penalties for non-compliance. AI systems using personal data must comply with these consent and privacy requirements.
+
+=== U.S. Executive Order on Safe, Secure, and Trustworthy AI (Oct 2023) ===
+This executive order sets forth a national policy to ensure that AI is safe, secure, and aligned with democratic values. It directs agencies to establish AI safety standards, require model reporting and red teaming for frontier models, and support watermarking of synthetic content. It promotes equity, civil rights, innovation, and international collaboration on AI governance.
+
+=== UNESCO Recommendation on the Ethics of AI (2021) ===
+UNESCO’s recommendation emphasizes ethical AI grounded in human rights and sustainable development. It introduces principles like human agency, do no harm, fairness, and environmental sustainability. It also recommends impact assessments, algorithmic transparency, and clear accountability mechanisms.
+
+=== UK AI Regulation White Paper (2023) ===
+The UK government advocates a context-based, pro-innovation framework. Rather than creating a single regulatory body, it empowers existing regulators (e.g., in finance, healthcare) to apply principles like safety, transparency, fairness, and redressability. The approach is flexible and emphasizes real-world use cases over broad regulations.
+

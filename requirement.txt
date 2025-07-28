@@ -1,0 +1,7 @@
+flask
+faiss-cpu
+torch
+transformers
+sentence-transformers
+python-dotenv
+huggingface-hub
